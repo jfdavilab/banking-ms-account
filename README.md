@@ -1,1 +1,1 @@
-# banking-ms-account
+# banking-ms-credit
